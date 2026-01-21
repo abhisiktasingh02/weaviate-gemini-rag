@@ -1,0 +1,10 @@
+weaviate-client[agents]
+weaviate-client
+pypdf 
+pdfplumber
+pymupdf
+pillow
+pytesseract
+tiktoken
+python-dotenv
+google-generativeai

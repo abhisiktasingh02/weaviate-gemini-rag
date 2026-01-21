@@ -1,0 +1,4 @@
+GOOGLE_PROJECT_ID=xxxx
+GOOGLE_PROJECT_LOCATION=xxxx
+GOOGLE_API_KEY=xxxx
+LLM_MODEL=gemini-2.5-flash-lite
