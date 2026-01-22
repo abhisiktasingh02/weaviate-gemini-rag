@@ -1,4 +1,3 @@
-```markdown
 # 🤖 Weaviate–Gemini RAG Bot (Production Architecture)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -234,5 +233,3 @@ Feel free to open an issue or submit a PR.
 **Abhisikta Singh**
 Software Engineer | AI Systems | RAG & LLM Engineering
 [LinkedIn](https://www.linkedin.com/in/abhisiktasingh/)
-
-```
